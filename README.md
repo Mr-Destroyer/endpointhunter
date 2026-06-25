@@ -34,7 +34,7 @@
 ## 🛠️ Usage
 
 ### 1. Single URL Mode
-Scan a single target for endpoints and secrets:
+Scan a single target for hidden endpoints and queries:
 ```bash
 python3 endpointhunter.py -u https://example.com
 ```
@@ -90,4 +90,4 @@ Developed with ❤️ by **MrDestroyer**.
 ## ⭐ Support
 If this tool helped you in your bug hunting journey, please **star this repository**! It helps more people discover the tool and keeps me motivated to add more features.
 
-Happy Hunting! 🎯
+Happy Hunting!
